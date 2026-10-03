@@ -36,6 +36,7 @@ cactușii trec din animația Idle în Attack; când se depărtează, revin în I
 - **Asset:** Character Cactus din Unity Asset Store.
 
 ## Demo
+Video: https://youtu.be/TMpviT1_Iiw
 
 ## Autor
 Andreea Ninicu, grupa 3E3
