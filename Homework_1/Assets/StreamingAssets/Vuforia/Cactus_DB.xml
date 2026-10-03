@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
-    <ImageTarget name="Flowers" size="0.150000 0.112500" />
-    <ImageTarget name="Fruits" size="0.150000 0.100000" />
+    <ImageTarget name="uno_1card" size="6.000000 9.244986" />
+    <ImageTarget name="uno_2card" size="6.000000 9.233429" />
   </Tracking>
 </QCARConfig>
