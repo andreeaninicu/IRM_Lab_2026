@@ -149,7 +149,8 @@ MonoBehaviour:
   myTarget: {fileID: 1881821078}
   otherTarget: {fileID: 1222927664}
   animator: {fileID: 281646496}
-  attackDistance: 0.25
+  attackDistance: 0.15
+  showDistance: 1
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -807,7 +808,8 @@ MonoBehaviour:
   myTarget: {fileID: 1222927664}
   otherTarget: {fileID: 1881821078}
   animator: {fileID: 2019843404}
-  attackDistance: 0.25
+  attackDistance: 0.15
+  showDistance: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
